@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Issac 👋
 
 I'm a passionate **Full Stack Developer** with a love for building seamless web applications. My stack is powered by:
 
