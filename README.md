@@ -10,4 +10,6 @@ I thrive on creating intuitive user experiences and robust back-end solutions th
 
 Let's build something amazing together!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaccodes)](https://github.com/anuraghazra/github-readme-stats)
+
 
