@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Issac 👋<br><br>💻 I'm a full-stack developer with expertise in **MERN Stack**, **Java DSA**, and **System Design**.<br><br>## 🚀 What I'm working on:<br>- 🖥️ Building full-stack applications using MongoDB, Express, React, and Node.js<br>- 🧠 Enhancing problem-solving skills with **Data Structures and Algorithms (DSA)** in Java<br>- 🛠️ Designing scalable systems for better performance and efficiency<br><br>## 🤝 I'm open for:<br>- 💡 Collaboration on full-stack or open-source projects<br>- 🌱 Learning and contributing to innovative ideas<br>
+Hi, I'm Issac 👋<br><br>💻 I'm a full-stack developer with expertise in **MERN Stack**, **Java DSA**, and **System Design**.<br><br>## 🚀 What I'm working on:<br>- 🖥️ Building full-stack applications using MongoDB, Express, React, and Node.js<br>- 🧠 Enhancing problem-solving skills with **Data Structures and Algorithms (DSA)** in Java<br>- 🛠️ Designing scalable systems for better performance and efficiency<br><br>## 🤝 I'm open for:<br>- 💡 Collaboration on full-stack or open-source projects<br>- 🌱 Learning and contributing to innovative ideas<br>
 
 
 # 💻 Tech Stack:
