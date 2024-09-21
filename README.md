@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Issac Bk 👋<br><br>A motivated full-stack developer with a love for problem-solving and continuous learning.<br><br>### 🌱 About Me<br>- I enjoy creating meaningful projects and pushing myself to learn and grow.<br>- Currently working on a mock question application and gearing up for GSoC 2025.<br><br>### 💡 Interests<br>- Exploring new ideas and technologies<br>- Sharing knowledge and collaborating with others<br>- Developing creative solutions to challenges<br><br>### 🤝 Let's Connect<br>Always excited to meet new people and collaborate on interesting projects!<br>
+# Hi, I'm Issac Bk 👋<br><br>A motivated full-stack developer with a love for problem-solving and continuous learning.<br><br># 🌱 About Me<br>- I enjoy creating meaningful projects and pushing myself to learn and grow.<br>- Currently working on a mock question application and gearing up for GSoC 2025.<br><br># 💡 Interests<br>- Exploring new ideas and technologies<br>- Sharing knowledge and collaborating with others<br>- Developing creative solutions to challenges<br><br># 🤝 Let's Connect<br>Always excited to meet new people and collaborate on interesting projects!<br>
 
 
 # 💻 Tech Stack:
