@@ -1,2 +1,2 @@
-# Hi! I'm Issac 
-Exploring the vast world of computers.
+# Hi! I'm Issac  👋
+🚀 Exploring the vast world of computers.
