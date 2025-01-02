@@ -1,8 +1,6 @@
 ### 🌟 Welcome to My GitHub! 🐾
 
-Hi there! 👋 I'm **Issac** 👨‍💻, a passionate self-taught developer exploring the amazing world of software and stars 🌌. Here's a quick tour of what you can find 
-
-here:
+Hi there! 👋 I'm **Issac** 👨‍💻, a passionate self-taught developer exploring the amazing world of software and stars 🌌. Here's a quick tour of what you can find here:
 
 ### 🛠 What I Do
 
