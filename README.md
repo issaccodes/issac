@@ -9,13 +9,13 @@ Hi there! 👋 I'm **Issac** 👨‍💻, a passionate self-taught developer exp
 
 ### 🌈 About Me
 
-💡 I believe in the power of curiosity and creativity.
-🌟 When I'm not coding, you might find me stargazing, walking outdoors, or making short films. 🎥✨
-🎵 Planning to share my love for music and vlogs soon on Instagram and YouTube.
-📂 Highlights
-🖥️ My Quiz Website: A fun project to challenge your knowledge!
-🎨 Beautiful designs and functional code blend seamlessly here. 🖌️💻
-🌟 Fun Fact
+-💡 I believe in the power of curiosity and creativity.
+-🌟 When I'm not coding, you might find me stargazing, walking outdoors, or making short films. 🎥✨
+-🎵 Planning to share my love for music and vlogs soon on Instagram and YouTube.
+-📂 Highlights
+-🖥️ My Quiz Website: A fun project to challenge your knowledge!
+-🎨 Beautiful designs and functional code blend seamlessly here. 🖌️💻
+-🌟 Fun Fact
 I have a 24-inch vertical jump! 🏀 (Still deciding if that’s useful for debugging... 🤔)
 
 🚀 ***Let's Connect!***
