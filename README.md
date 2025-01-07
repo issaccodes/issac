@@ -6,5 +6,5 @@
 - 🐛 Bugs are my pets, I just can’t get rid of them.
 - Famous last words: “This should work now.”
 
-  **Enjoy the chaos!** 🚀
+**Enjoy the chaos!** 🚀
   
